@@ -1,0 +1,20 @@
+body {
+	background: var(--white);
+	font-family: 'Ubuntu';
+}
+.bg-yellow {
+	background-color: var(--yellow);
+}
+footer {
+	text-align: center;
+	padding: 10px;
+}
+#footer-text * {
+	color: gray;
+	padding: 0;
+	margin: 0;
+	margin-bottom: 5px;
+}
+#footer-text a:hover {
+	font-weight: 700;
+}
