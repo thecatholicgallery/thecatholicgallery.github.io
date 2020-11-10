@@ -33,8 +33,7 @@ optional:
 
 _**For this option, you will have to add an compressed image, with the maximium of 450 pixels on the largest dimension of it.**_
 
----
-### Important
+### Important:
 The compressed image should be performing these requirements: 
 
 - 450 pixels on height if it is a portrait image;
@@ -42,7 +41,6 @@ The compressed image should be performing these requirements:
 - The another measure should keep the picture 
 proportion.
 - WEBP format with 60% - 75% of quality.
----
 
 Example of how to fulfill the json file:
 
