@@ -2,19 +2,23 @@
 	width: 100%;
 	padding: 0 10px 0 10px;
 	margin: 0px;
+	display: flex;
+	justify-content: center;
 }
+
 .box img {
 	width: 100%;
 	max-width: max-content;
 	max-height: 100%;
 	margin-bottom: 20px;
 	border-radius: 7px;
+
 }
 .infos {
 	background-color: var(--yellow);
 	position: absolute;
 	padding: 13px 8px;
-	margin-top: -40px;
+	margin-top: 50%;
 	width: 75%;
 	font-size: clamp(1rem, 0.5vw, 10rem);
 	line-height: 0.7;
