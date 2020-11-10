@@ -3,7 +3,7 @@
 This repository is dedicated to help Catholics and not Catholics _(well-intentined)_ to find good images for any purpose.
 The actual idea is to congregate Sacred Art images, photos of catholic places and the community art.
 
-### Access the site by [clicking here](https://gustavobecelli.github.io/The-Catholic-Gallery).
+### Access the site by [clicking here](https://thecatholicgallery.github.io).
 
 # Contribute
 You can contribute many ways to this project. If you want to contribute by submiting an image, go to [submit a image](#submit-an-image).
