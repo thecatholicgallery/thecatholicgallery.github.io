@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Merriweather:ital,wght@0,400;1,700&family=Patrick+Hand&display=swap');
 body {
 	background: var(--white);
-	font-family: 'Ubuntu';
+	font-family: 'Merriweather', serif;
 }
 .bg-yellow {
 	background-color: var(--yellow);
@@ -15,6 +16,6 @@ footer {
 	margin: 0;
 	margin-bottom: 5px;
 }
-#footer-text a:hover {
+#footer-text a {
 	font-weight: 700;
 }
