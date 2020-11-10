@@ -1,17 +1,20 @@
 [
     {
-        "id": 1,
+        "type": "photography",
+        "compressed": "/public/img/photography/compressed/Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida_2019_21.webp",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida_2019_21.jpg",
         "name": "Basilica of the National Shrine of Our Lady of Aparecida",
         "author": "Mike Peel",
         "year": "2019",
-        "tags": ["Mary",
+        "tags": ["Mary",    
                 " Jesus"
                 ],
-        "license": "CC-BY-SA-4.0",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida_2019_21.jpg"
+        "license": "CC-BY-SA-4.0"
     },
     {
-        "id": 2,
+        "type": "artwork",
+        "compressed": "/public/img/artwork/compressed/TheHeavenlyAndEarthTrinities.webp",
+        "url": "/public/img/artwork/original/TheHeavenlyAndEarthTrinities.jpg",
         "name": "The Heavenly and Earthly Trinities",
         "author": "Bartolomé Esteban Perez Murillo",
         "year": "1675-1682",
@@ -19,122 +22,6 @@
                 " Saint Anne",
                 " Saint Joachim"
                 ],
-        "license": "Public Domain",
-        "url": "./public/img/TheHeavenlyAndEarthTrinities.jpg"
-    },
-    {
-        "id": 1,
-        "name": "Basilica of the National Shrine of Our Lady of Aparecida",
-        "author": "Mike Peel",
-        "year": "2019",
-        "tags": ["Mary",
-                " Jesus"
-                ],
-        "license": "CC-BY-SA-4.0",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida_2019_21.jpg"
-    },
-    {
-        "id": 2,
-        "name": "The Heavenly and Earthly Trinities",
-        "author": "Bartolomé Esteban Perez Murillo",
-        "year": "1675-1682",
-        "tags": ["Mary",
-                " Saint Anne",
-                " Saint Joachim"
-                ],
-        "license": "Public Domain",
-        "url": "./public/img/TheHeavenlyAndEarthTrinities.jpg"
-    },
-    {
-        "id": 1,
-        "name": "Basilica of the National Shrine of Our Lady of Aparecida",
-        "author": "Mike Peel",
-        "year": "2019",
-        "tags": ["Mary",
-                " Jesus"
-                ],
-        "license": "CC-BY-SA-4.0",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida_2019_21.jpg"
-    },
-    {
-        "id": 2,
-        "name": "The Heavenly and Earthly Trinities",
-        "author": "Bartolomé Esteban Perez Murillo",
-        "year": "1675-1682",
-        "tags": ["Mary",
-                " Saint Anne",
-                " Saint Joachim"
-                ],
-        "license": "Public Domain",
-        "url": "./public/img/TheHeavenlyAndEarthTrinities.jpg"
-    },
-        {
-        "id": 1,
-        "name": "Basilica of the National Shrine of Our Lady of Aparecida",
-        "author": "Mike Peel",
-        "year": "2019",
-        "tags": ["Mary",
-                " Jesus"
-                ],
-        "license": "CC-BY-SA-4.0",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida_2019_21.jpg"
-    },
-    {
-        "id": 2,
-        "name": "The Heavenly and Earthly Trinities",
-        "author": "Bartolomé Esteban Perez Murillo",
-        "year": "1675-1682",
-        "tags": ["Mary",
-                " Saint Anne",
-                " Saint Joachim"
-                ],
-        "license": "Public Domain",
-        "url": "./public/img/TheHeavenlyAndEarthTrinities.jpg"
-    },
-    {
-        "id": 1,
-        "name": "Basilica of the National Shrine of Our Lady of Aparecida",
-        "author": "Mike Peel",
-        "year": "2019",
-        "tags": ["Mary",
-                " Jesus"
-                ],
-        "license": "CC-BY-SA-4.0",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida_2019_21.jpg"
-    },
-    {
-        "id": 2,
-        "name": "The Heavenly and Earthly Trinities",
-        "author": "Bartolomé Esteban Perez Murillo",
-        "year": "1675-1682",
-        "tags": ["Mary",
-                " Saint Anne",
-                " Saint Joachim"
-                ],
-        "license": "Public Domain",
-        "url": "./public/img/TheHeavenlyAndEarthTrinities.jpg"
-    },
-    {
-        "id": 1,
-        "name": "Basilica of the National Shrine of Our Lady of Aparecida",
-        "author": "Mike Peel",
-        "year": "2019",
-        "tags": ["Mary",
-                " Jesus"
-                ],
-        "license": "CC-BY-SA-4.0",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida_2019_21.jpg"
-    },
-    {
-        "id": 2,
-        "name": "The Heavenly and Earthly Trinities",
-        "author": "Bartolomé Esteban Perez Murillo",
-        "year": "1675-1682",
-        "tags": ["Mary",
-                " Saint Anne",
-                " Saint Joachim"
-                ],
-        "license": "Public Domain",
-        "url": "./public/img/TheHeavenlyAndEarthTrinities.jpg"
+        "license": "Public Domain"
     }
 ]
