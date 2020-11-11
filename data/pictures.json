@@ -22,7 +22,7 @@
     {
         "type": "artwork",
         "compressed": "/public/img/artwork/compressed/TheHeavenlyAndEarthTrinities.webp",
-        "url": "/public/img/artwork/original/TheHeavenlyAndEarthTrinities.jpg",
+        "url": "https://images6.alphacoders.com/313/313167.jpg",
         "name": "The Heavenly and Earthly Trinities",
         "author": "Bartolomé Esteban Perez Murillo",
         "year": "1675-1682",
