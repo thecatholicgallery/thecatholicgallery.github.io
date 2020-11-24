@@ -7,7 +7,7 @@ document.write( '      <span class=\"navbar-toggler-icon\"></span>\n' );
 document.write( '    </button>\n' );
 document.write( '    <div class=\"collapse navbar-collapse\" id=\"navbarNav\">\n' );
 document.write( '      <ul class=\"navbar-nav\">\n' );
-document.write( '        <li class=\"nav-item active\">\n' );
+document.write( '        <li class=\"nav-item\">\n' );
 document.write( '          <a class=\"nav-link\" href=\"/categories/artwork\">artwork</a>\n' );
 document.write( '        </li>\n' );
 document.write( '        <li class=\"nav-item\">\n' );
