@@ -1,12 +1,12 @@
 [
-  {
-    "type": "photography",
-    "compressed": "/public/img/photography/compressed/Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida_2019_21.webp",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida_2019_21.jpg",
-    "name": "Basilica of the National Shrine of Our Lady of Aparecida",
-    "author": "Mike Peel",
-    "year": "2019",
-    "tags": ["Mary", " Jesus"],
-    "license": "CC-BY-SA-4.0"
-  }
+	{
+		"id": "1",
+		"compressed": "/public/img/photography/compressed/Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida_2019_21.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida_2019_21.jpg",
+		"name": "Basilica of the National Shrine of Our Lady of Aparecida",
+		"author": "Mike Peel",
+		"year": "2019",
+		"tags": ["Mary", " Jesus"],
+		"license": "CC-BY-SA-4.0"
+	}
 ]

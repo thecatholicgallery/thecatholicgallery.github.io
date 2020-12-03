@@ -15,57 +15,31 @@
 			integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2"
 			crossorigin="anonymous"
 		/>
-		<link rel="stylesheet" href="/public/css/colors.css" />
 		<link rel="stylesheet" href="/public/css/layout.css" />
 		<link rel="stylesheet" href="/public/css/images.css" />
-		<link rel="stylesheet" href="styles.css" />
+		<link rel="stylesheet" href="./styles.css" />
 		<title>The Catholic Gallery</title>
 		<!-- GENERATE NAVBAR -->
 		<script src="/public/js/navbar.js"></script>
-		<!-- SHOW IMAGES -->
+		<script>
+			navbarHighlight(0) // highlight navbar item
+		</script>
 	</head>
-	<body onload="showPictures('artwork')">
-		<section id="buttons">
-			<form method="get" id="next-page">
-				<input
-					id="next-page-input"
-					value="1"
-					name="page"
-					type="number"
-					style="display: none"
-				/>
-			</form>
-			<form method="get" id="back-page">
-				<input
-					id="back-page-input"
-					value="1"
-					name="page"
-					type="number"
-					style="display: none"
-				/>
-			</form>
-			<div id="page-buttons">
-				<div id="return-button"></div>
-				<div id="next-button">
-					<button
-						id="next-btn"
-						class="btn btn-warning"
-						type="submit"
-						form="next-page"
-					>
-						Next Page
-					</button>
-				</div>
-			</div>
-		</section>
+	<body>
+		<!-- CONTENT -->
 	</body>
+
+	<!-- SITE SCRIPTS -->
+	<script src="/public/js/buttons.js"></script>
 	<script src="/public/js/images.js"></script>
-	<script src="/public/js/footer.js"></script>
+
 	<script>
-		// ACTIVATE NAVBAR ITEM
-		const navItem = document.getElementsByClassName('nav-item')[0]
-		navItem.classList.add('active')
+		showPictures('artwork')
 	</script>
+
+	<!-- Bootstrap  -->
+
+	<script src="/public/js/footer.js"></script>
 	<script
 		src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
 		integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
