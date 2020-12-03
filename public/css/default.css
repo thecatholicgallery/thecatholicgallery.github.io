@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
+body {
+	font-family: 'Quicksand', sans-serif;
+}
+:root {
+	--yellow: #ffe000;
+	--white: #efefef;
+}
