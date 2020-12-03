@@ -1,0 +1,242 @@
+[
+	{
+		"id": 1,
+		"compressed": "/public/img/artwork/compressed/Bernardo_Strozzi_-_St.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bernardo_Strozzi_-_St._Lawrence_Distributing_the_Riches_of_the_Church.jpg",
+		"name": "St. Lawrence Distributing the Riches of the Church",
+		"author": "Bernardo Strozzi",
+		"year": "1625",
+		"tags": ["Lawrence", " Rich", " Church"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 2,
+		"compressed": "/public/img/artwork/compressed/TheHeavenlyAndEarthTrinities.webp",
+		"url": "https://images6.alphacoders.com/313/313167.jpg",
+		"name": "The Heavenly and Earthly Trinities",
+		"author": "Bartolomé Esteban Perez Murillo",
+		"year": "1675-1682",
+		"tags": ["Mary", " Saint Anne", " Saint Joachim"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 3,
+		"compressed": "/public/img/artwork/compressed/Bernardo_Strozzi_-_St_Francis_of_Assisi_adoring_the_Crucifix_-_Google_Art_Project.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bernardo_Strozzi_-_St_Francis_of_Assisi_adoring_the_Crucifix_-_Google_Art_Project.jpg",
+		"name": "St Francis of Assisi adoring the Crucifix",
+		"author": "Bernardo Strozzi",
+		"year": "1644",
+		"tags": ["Francis", " Cross", " Crucifix"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 4,
+		"compressed": "/public/img/artwork/compressed/Bernardo_Strozzi_The_Healing_of_Tobit-1993.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bernardo_Strozzi_-_The_Healing_of_Tobit_-_1993.5_-_Cleveland_Museum_of_Art.jpg",
+		"name": "The Healing of Tobit",
+		"author": "Bernardo Strozzi",
+		"year": "1630",
+		"tags": ["Tobit", " Healing", " Raphael Archangel"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 5,
+		"compressed": "/public/img/artwork/compressed/Bernardo_Strozzi_-_The_release_of_St_Peter_-_Google_Art_Project.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bernardo_Strozzi_-_The_release_of_St_Peter_-_Google_Art_Project.jpg",
+		"name": "The release of St Peter",
+		"author": "Bernardo Strozzi",
+		"year": "1635",
+		"tags": ["Peter", " Release", " Prision"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 6,
+		"compressed": "/public/img/artwork/compressed/Virgen_del_Rosario_(Murillo).webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Virgen_del_Rosario_%28Murillo%29.jpg",
+		"name": "Virgin and Child with a Rosary",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "1650-1655",
+		"tags": ["Our Lady", "Jesus"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 7,
+		"compressed": "/public/img/artwork/compressed/Bartolomé_Esteban_Perez_Murillo_021.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bartolom%C3%A9_Esteban_Perez_Murillo_021.jpg",
+		"name": "The Immaculate Conception of El Escorial",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "1660–1665",
+		"tags": ["Our Lady", "Immaculate Conception"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 8,
+		"compressed": "/public/img/artwork/compressed/Bartolomé_Esteban_Perez_Murillo_008.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bartolom%C3%A9_Esteban_Perez_Murillo_008.jpg",
+		"name": "The Holy Family with a Bird",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "1650s",
+		"tags": ["Virgin Mary", "St. Joseph", "Jesus", "Holy Family"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 9,
+		"compressed": "/public/img/artwork/compressed/Adoración_de_los_pastores_(Murillo).webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Adoraci%C3%B3n_de_los_pastores_%28Murillo%29.jpg",
+		"name": "The Adoration of the Shepherds",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "1650s",
+		"tags": ["Virgin Mary", "St. Joseph", "Jesus", "Kings"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 10,
+		"compressed": "/public/img/artwork/compressed/Bartolomé_Esteban_Murillo_-_Saint_Peter_in_Tears_-_Google_Art_Project.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bartolom%C3%A9_Esteban_Murillo_-_Saint_Peter_in_Tears_-_Google_Art_Project.jpg",
+		"name": "Saint Peter in Tears",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "1650-1655",
+		"tags": ["Saint Peter", "Peter", "Keys", "Tears"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 11,
+		"compressed": "/public/img/artwork/compressed/San_Jerónimo_leyendo_(Murillo).webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/4/45/San_Jer%C3%B3nimo_leyendo_%28Murillo%29.jpg",
+		"name": "Saint Jerome Reading",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "1650-1652",
+		"tags": ["St Jerome", "Reading"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 12,
+		"compressed": "/public/img/artwork/compressed/Isidor_von_Sevilla.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Isidor_von_Sevilla.jpeg",
+		"name": "Saint Isidor of Sevilla",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "1655",
+		"tags": ["Isidor", "Pope", "Isidor von Sevilla"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 13,
+		"compressed": "/public/img/artwork/compressed/Bartolomé_Esteban_Perez_Murillo_023.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bartolom%C3%A9_Esteban_Perez_Murillo_023.jpg",
+		"name": "The Annunciation",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "1655-1660",
+		"tags": ["Gabriel", "Angel", "Annunciation", "Virgin Mary", "Holy Spirit"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 14,
+		"compressed": "/public/img/artwork/compressed/1602-3_Caravaggio,Supper_at_Emmaus_National_Gallery,_London.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/1602-3_Caravaggio%2CSupper_at_Emmaus_National_Gallery%2C_London.jpg",
+		"name": "The Supper at Emmaus",
+		"author": "Caravaggio",
+		"year": "1601",
+		"tags": ["Jesus", "Emmaus", "Supper"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 15,
+		"compressed": "/public/img/artwork/compressed/Bartolomé_Esteban_Murillo_-_Adoration_of_the_Magi_-_Google_Art_Project.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bartolom%C3%A9_Esteban_Murillo_-_Adoration_of_the_Magi_-_Google_Art_Project.jpg",
+		"name": "Adoration of the Magi",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "1655-1660",
+		"tags": ["Virgin Mary", "Adoration", "Magi", "Kings"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 16,
+		"compressed": "/public/img/artwork/compressed/Bartolome_murillo-san_ildefonso.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bartolome_murillo-san_ildefonso.jpg",
+		"name": "Apparition of the Virgin to San Ildefonso",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "~1655",
+		"tags": ["Virgin Mary", "Idelfonso", "Toledo"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 17,
+		"compressed": "/public/img/artwork/compressed/SantaRufinaMurillo.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/SantaRufinaMurillo.jpg",
+		"name": "Saint Rufina",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "~1665",
+		"tags": ["Saint Rufina", "Portrait"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 18,
+		"compressed": "/public/img/artwork/compressed/Saint_Raphael.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Raphael.JPG",
+		"name": "Archangel Raphael with Bishop Domonte",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "1655-1660",
+		"tags": ["Raphael", "Archangel", "Bishop", "Domonte"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 19,
+		"compressed": "/public/img/artwork/compressed/lossy-page1-2756px-The_Return_of_the_Holy_Family_from_Egypt_(Bartolomé_Esteban_Murillo)_-_Nationalmuseum_-_21281.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/The_Return_of_the_Holy_Family_from_Egypt_%28Bartolom%C3%A9_Esteban_Murillo%29_-_Nationalmuseum_-_21281.tif/lossy-page1-2756px-The_Return_of_the_Holy_Family_from_Egypt_%28Bartolom%C3%A9_Esteban_Murillo%29_-_Nationalmuseum_-_21281.tif.jpg",
+		"name": "The Return of the Holy Family from Egypt",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "Unknown",
+		"tags": ["Holy Family", "Egypt", "Jesus", "Our Lady", "St. Joseph"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 20,
+		"compressed": "/public/img/artwork/compressed/The_Barber_Institute_of_Fine_Arts_-_Bartolomé_Esteban_Murillo_-_The_Marriage_Feast_at_Cana.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/1/18/The_Barber_Institute_of_Fine_Arts_-_Bartolom%C3%A9_Esteban_Murillo_-_The_Marriage_Feast_at_Cana.jpg",
+		"name": "Rest on the Flight into Egypt",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "~1665",
+		"tags": ["Cana", "Marriage", "Miracle", "Jesus", "Table"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 21,
+		"compressed": "/public/img/artwork/compressed/Curacion_del_paralitico_Murillo_1670.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Curacion_del_paralitico_Murillo_1670.jpg",
+		"name": "Christ healing the Paralytic at the Pool of Bethesda",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "1667-1670",
+		"tags": ["Jesus", "Healing", "Cure", "Paralitico"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 22,
+		"compressed": "/public/img/artwork/compressed/Bartolomé_Esteban_Perez_Murillo_-_Virgin_and_Child_with_St_Rosalina_of_Palermo_-_WGA16389.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bartolom%C3%A9_Esteban_Perez_Murillo_-_Virgin_and_Child_with_St_Rosalina_of_Palermo_-_WGA16389.jpg",
+		"name": "Virgin and Child with St Rosalina of Palermo",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "~1670",
+		"tags": ["St Rosalina", "Virgin Mary", "Jesus"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 23,
+		"compressed": "/public/img/artwork/compressed/Cristo_crucificado_(Murillo).webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Cristo_crucificado_%28Murillo%29.jpg",
+		"name": "Christ Crucified",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "~1677",
+		"tags": ["Christ", "Crucified", "God"],
+		"license": "Public Domain"
+	},
+	{
+		"id": 24,
+		"compressed": "/public/img/artwork/compressed/Virgendelaservilleta.webp",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Virgendelaservilleta.jpg",
+		"name": "Virgen de la Servilleta",
+		"author": "Bartolomé Esteban Murillo",
+		"year": "1665-1666",
+		"tags": ["Christ", "Virgin Mary"],
+		"license": "Public Domain"
+	}
+]
